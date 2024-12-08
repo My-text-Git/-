@@ -12,7 +12,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/DARK-X-BOT/SHANUWA-MD-V3">
+<a href="https://github.com/ADHI-OFC-RK/-/blob/main/README.md">
     <img src="https://pomf2.lain.la/f/5ih12ipx.jpg"  width="700px">
 </a>
 <hr>
