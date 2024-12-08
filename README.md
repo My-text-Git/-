@@ -23,27 +23,11 @@
 <a href='https://webpair-mega-1.onrender.com/pair' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
-<b><summary>BOT OWNER SHANUWA ID</summary><br>
+<b><summary>BOT OWNER ADHI OFC</summary><br>
 
-## DARK X TEAM CONTACT 
-
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+94774609569&text=Hᴇʏ_𝐒ʜᴀɴᴜᴡᴀ_𝐇ᴇʟᴘ)
+##  TECHNICAL DARK DEVILS TEAM CONTACT 
 
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+94727163302&text=Hᴇʏ_𝐃ᴀʀᴋ_𝗫_𝐇ᴇʟᴘ)
-
-
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+94773883257&text=Hᴇʏ_𝐘ᴏᴠɪ_𝐇ᴇʟᴘ)
-
-
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+94769483739&text=Hᴇʏ_𝐊ᴇꜱʜɪ_𝐇ᴇʟᴘ)
-<hr>
-</details>
-
-
-## Deploy.
- 
-[![nima](https://img.shields.io/badge/shanuwa_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 <hr>
 
