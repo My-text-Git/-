@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=QUEEN+MINUKI+MD+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ+CREATE+BY+ADHI+OFC)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=QUEEN+MINUKI+MD++ＷＨＡＴＳＡＰＰ+ＢＯＴ+CREATE+BY+ADHI+OFC)](https://git.io/typing-svg)
 
 
 
@@ -33,6 +33,5 @@
 
 ## BOT CHANNEL 
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029ValzLhUBqbrFa8tMPg3U)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029ValzLhUBq)
 <hr>
-</details>
